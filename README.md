@@ -8,7 +8,14 @@
 
 ## Sobre
 <p align =" center">
-Material de estudo sobre a tecnologia ES6 e sua utilização na web. Todo conhcimento fornecido pela[RocketSeat](https://app.rocketseat.com.br)
-
+Material de estudo sobre a tecnologia ES6 e sua utilização na web. Todo conhcimento fornecido pela[RocketSeat](https://app.rocketseat.com.br).
 </p>
+
+## Clone este repositório
+$ git clone https://github.com/caiolucass/treinamento-ES6.git
+
+### Contribuidor(es) e contatos
+| name | e-mail |
+|------| ------ |
+ caiolucass | caiolfsantoss@gmail.com |
 
