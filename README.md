@@ -14,6 +14,10 @@ Material de estudo sobre a tecnologia ES6 e sua utilização na web. Todo conhci
 ## Clone este repositório
 $ git clone https://github.com/caiolucass/treinamento-ES6.git
 
+## Acessar a pasta do projeto no cmd/terminal
+$ cd Treinamento_ES6
+Abra o arquivo index.html para visualizar o site.
+
 ### Contribuidor(es) e contatos
 | name | e-mail |
 |------| ------ |
