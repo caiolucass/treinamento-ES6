@@ -8,7 +8,7 @@
 
 ## Sobre
 <p align =" center">
-Material de estudo sobre a tecnologia ES6 e sua utilização na web. Todo conhcimento fornecido pela [RocketSeat].(https://app.rocketseat.com.br).
+Material de estudo sobre a tecnologia ES6 e sua utilização na web. Todo conhcimento fornecido pela [Rocketseat](https://github.com/Rocketseat)
 </p>
 
 ## Clone este repositório
