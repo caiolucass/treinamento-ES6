@@ -17,5 +17,5 @@ $ git clone https://github.com/caiolucass/treinamento-ES6.git
 ### Contribuidor(es) e contatos
 | name | e-mail |
 |------| ------ |
- caiolucass | caiolfsantoss@gmail.com |
+ caiolucass | caiolfsantoss@gmail.com | RocketSeat | https://app.rocketseat.com.br
 
